@@ -5,6 +5,7 @@ void clock();
 void stopwatch();
 void Timer();
 int main(){
+    cout<<"Hello This is a Digital Watch By Jay";
     int option;
     cout<<"DIGITAL WATCH FEATURES\n\n";
     cout<<"Press 1.Digital Clock 2.Stopwatch 3.Timer\n";
